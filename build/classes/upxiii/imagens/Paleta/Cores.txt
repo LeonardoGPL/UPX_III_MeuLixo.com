@@ -1,0 +1,7 @@
+cor das Fontes:              665A48 102,90,72
+cor das fontes dos botoes:   9FB772 159,135,114
+
+cor interno dos botoes:      EDE4E0 237,228,224
+cor externa dos botoes:      9F8772 159,135,114
+
+cor interna dos frames:      EDFAEA 237,250,234 
